@@ -1,6 +1,8 @@
-# Meal-One
+# MealFinder
 
-Meal One is a hackathon app for searching and managing meals. This project is based on the Figma design available at https://www.figma.com/design/Qn81noKBdqkwpupsOjPvkp/Meal-Search-Website.
+MealFinder is a hackathon app for searching and managing meals. This is my first ever hackathon project and I have zero coding experience. This project was made using the help of FigmaMake and is available as a Figma Design.
+
+available at https://www.figma.com/design/Qn81noKBdqkwpupsOjPvkp/Meal-Search-Website.
 
 ## About
 
