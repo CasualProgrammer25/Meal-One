@@ -1,11 +1,30 @@
+# Meal-One
 
-  # Meal Search Website
+Meal One is a hackathon app for searching and managing meals. This project is based on the Figma design available at https://www.figma.com/design/Qn81noKBdqkwpupsOjPvkp/Meal-Search-Website.
 
-  This is a code bundle for Meal Search Website. The original project is available at https://www.figma.com/design/Qn81noKBdqkwpupsOjPvkp/Meal-Search-Website.
+## About
 
-  ## Running the code
+Meal-One is a meal search website that allows users to find and manage meal information. This is an ongoing project developed for the hackathon.
 
-  Run `npm i` to install the dependencies.
+## Getting Started
 
-  Run `npm run dev` to start the development server.
-  
+### Running the code
+
+1. Install dependencies:
+   ```bash
+   npm i
+   ```
+
+2. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+The development server will start on `http://localhost:3000/`
+
+## Building for Production
+
+To build the project for production:
+```bash
+npm run build
+```
